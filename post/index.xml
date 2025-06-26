@@ -16,7 +16,12 @@
         <description>&lt;h1 id=&#34;test-1&#34;&gt;Test 1
 &lt;/h1&gt;&lt;h2 id=&#34;test-2&#34;&gt;Test 2
 &lt;/h2&gt;&lt;h3 id=&#34;test-3&#34;&gt;Test 3
-&lt;/h3&gt;</description>
+&lt;/h3&gt;&lt;h3 id=&#34;git-错误src-refspec-main-does-not-match-any&#34;&gt;Git ：错误：src refspec main does not match any
+&lt;/h3&gt;&lt;p&gt;error: src refspec main does not match any”错误是在使用Git命令时遇到的一种常见错误信息。
+通常情况下，这个错误是由于没有正确命名或没有创建与所使用的引用（如分支或标签）匹配的引用而引起的。在Git中，分支常用于组织和跟踪不同的开发版本。
+估计是由于仓库名称不一样;导致远程和本地的仓库不能关联上
+&lt;code&gt;git branch -M  old new&lt;/code&gt;&lt;/p&gt;
+</description>
         </item>
         <item>
         <title>Math Typesetting</title>
